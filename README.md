@@ -16,7 +16,7 @@ A fully functional web-based scientific calculator built with HTML, CSS, and Jav
 
 ## Live Demo
 
-[Check out the live demo](https://github.com/zorosanjiluffy/CALCULATER) (add your live link here if deployed).
+[Check out the live demo](https://zorosanjiluffy.github.io/CALCULATER/) (add your live link here if deployed).
 
 ## Screenshots
 
